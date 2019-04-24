@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.Date;
-import java.lang.Double;
 
 public class Compra {
   private Person per;

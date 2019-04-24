@@ -1,5 +1,3 @@
-import java.lang.Double;
-
 class Articulo {
     private String nombre;
     private Double precio;
